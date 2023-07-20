@@ -63,4 +63,22 @@ verde escuro #649a9f
     div#formulario > p {
         font-size: 1.1em;
     }
+
+    form > a.botao {
+        margin-top: 20px;
+        display: block;
+        text-align: center;
+        text-decoration: none;
+        font-size: 1em;
+        width: 100%;
+        color: #5f2c82;
+    }
+    
+    form > a.botao:hover {
+        color: #fe9faa;
+    }
+    
+    form > a.botao > i {
+        font-size: 1.05em;
+    }
 }
