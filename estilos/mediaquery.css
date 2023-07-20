@@ -28,6 +28,10 @@ verde escuro #649a9f
         float: right;
         width: 60%;
     }
+
+    div#formulario > p {
+        font-size: 1em;
+    }
 }
 
 @media screen and (min-width: 992px) {
@@ -57,6 +61,6 @@ verde escuro #649a9f
     }
 
     div#formulario > p {
-        font-size: 1.2em;
+        font-size: 1.1em;
     }
 }
